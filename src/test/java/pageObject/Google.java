@@ -6,4 +6,5 @@ public class Google {
     String name;
     boolean isActive;
     int num;
+    String ilias;
 }
